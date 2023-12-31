@@ -16,6 +16,7 @@ Step 2: API Check: Using Postman..
   6. Event_detail /GET, PUT, DELETE REQ: http://127.0.0.1:8000/api/v1/events/1/ (only  admin  can GET, PUT, DELETE).
   7. Search Event: http://127.0.0.1:8000/api/v1/events/?title=hi.
   
-  
+  ![2023-12-31_155949](https://github.com/raisulislampiaus/simple-event-registration-system-using-Django/assets/54791396/5ce1bc6d-3e8e-42fa-bc1c-8a5218306d43)
+
   
   
